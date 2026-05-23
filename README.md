@@ -2,6 +2,10 @@
 ### AI-Powered Lead Capture & CRM Automation
 **Built with Make.com · OpenAI GPT-4o · Airtable · Gmail · Slack**
 
+> 🎥 **[Watch Live Demo](https://www.loom.com/share/2471defd517b48c58ee68259a72cf33f)** · 
+> ⭐ Star this repo if you find it useful · 
+> 🍴 Fork to use as your own starting point
+
 ---
 
 ## 📌 Overview
@@ -179,7 +183,7 @@ The workflow uses two prompts sent to GPT-4o:
 Automation Engineer · Make.com · AI Workflows
 Skill SYNC Automation Agency
 📧 burhanaslam944@gmail.com
-🌐 www.skillsync.com
+ linkedin.com/in/burhan-aslam
 
 ---
 
