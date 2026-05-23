@@ -16,6 +16,8 @@ This is **Workflow 1 of 6** in the Skill SYNC automation portfolio, targeting th
 
 ---
 
+![LeadSync AI Workflow](workflow.png)
+
 ## ⚡ What It Does
 
 | Step | What Happens |
